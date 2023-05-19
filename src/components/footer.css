@@ -1,0 +1,29 @@
+.footer--container{
+    margin: auto;
+    background-color: #161619;
+    width: 220px;
+    height: 44px;
+}
+#twitter--icon{
+    text-align: center;
+    font-size: 1.5em;
+    color: #918E9B;
+}
+#facebook--icon{
+    font-size: 1.5em;
+    color: #918E9B;
+}
+#instagram--icon{
+    font-size: 1.5em;
+    color: #918E9B;
+}
+#github--icon{
+    font-size: 1.5em;
+    color: #918E9B;
+}
+.footer--table{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}

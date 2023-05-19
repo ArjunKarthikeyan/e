@@ -1,0 +1,22 @@
+.about--container{
+    margin: 0;
+    width: 220px;
+    height: 90px;
+    background-color: #1A1B21;
+    margin: auto;
+}
+.about--heading{
+    margin: 0;
+    font-weight: 700;
+    font-size: 16px;
+    color: #F5F5F5;
+    padding-left: 35px;
+}
+.about--para{
+    width: 150px;
+    font-weight: 300;
+    font-size: 10px;
+    color: #F5F5F5;
+    padding-left: 35px;
+    text-align: left;
+}
